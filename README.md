@@ -12,3 +12,7 @@ RSP is just a number. Memory is just a rectangle of numbers. Flow can jump how w
 This needs to be `char ** strings = malloc(sizeof(char*));`
 
 # key2, key3, copy pasted code
+
+Specifying Systems, Leslie Lamport
+
+> Mathematics provides infinitely many ways of expressing the same thing.
