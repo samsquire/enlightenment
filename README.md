@@ -16,3 +16,7 @@ This needs to be `char ** strings = malloc(sizeof(char*));`
 Specifying Systems, Leslie Lamport
 
 > Mathematics provides infinitely many ways of expressing the same thing.
+
+# you're looping past the structure
+
+# your if statements might be preventing the state from being reached
